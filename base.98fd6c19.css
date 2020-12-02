@@ -782,7 +782,10 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		
 			position: absolute;
 			bottom: 100px;
-			left: 0
+			left: 0;
+			    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
 		}
 
 		.modal-img {
@@ -886,7 +889,10 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		
 			position: absolute;
 			bottom: 100px;
-			left: 0
+			left: 0;
+			    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
 		}
 
 		.modal-img {
@@ -990,7 +996,10 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		
 			position: absolute;
 			bottom: 100px;
-			left: 0
+			left: 0;
+			    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
 		}
 
 		.modal-img {
@@ -1095,7 +1104,10 @@ and (-webkit-min-device-pixel-ratio: 3) {
 		
 			position: absolute;
 			bottom: 100px;
-			left: 0
+			left: 0;
+			    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
 		}
 
 		.modal-img {
@@ -1199,7 +1211,10 @@ and (-webkit-min-device-pixel-ratio: 3) {
 		
 			position: absolute;
 			bottom: 100px;
-			left: 0
+			left: 0;
+			    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
 		}
 
 		.modal-img {
