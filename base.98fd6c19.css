@@ -758,7 +758,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		.frame__links a {
 			font-size: 3rem;
 			position: absolute;
-			bottom: 50px;
+			bottom: 100px;
 			width: 100%;
 			left: 0;
 		}
@@ -781,11 +781,12 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		.frame__demos {
 		
 			position: absolute;
-			bottom: 100px;
+			bottom: 150px;
 			left: 0;
 			    width: 100%;
     padding-left: 10%;
     padding-right: 10%;
+			
 		}
 
 		.modal-img {
@@ -865,7 +866,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		.frame__links a {
 			font-size: 3rem;
 			position: absolute;
-			bottom: 50px;
+			bottom: 100px;
 			width: 100%;
 			left: 0;
 		}
@@ -888,7 +889,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		.frame__demos {
 		
 			position: absolute;
-			bottom: 100px;
+			bottom: 150px;
 			left: 0;
 			    width: 100%;
     padding-left: 10%;
@@ -972,7 +973,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		.frame__links a {
 			font-size: 3rem;
 			position: absolute;
-			bottom: 50px;
+			bottom: 100px;
 			width: 100%;
 			left: 0;
 		}
@@ -995,7 +996,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		.frame__demos {
 		
 			position: absolute;
-			bottom: 100px;
+			bottom: 150px;
 			left: 0;
 			    width: 100%;
     padding-left: 10%;
@@ -1080,7 +1081,7 @@ and (-webkit-min-device-pixel-ratio: 3) {
 		.frame__links a {
 			font-size: 3rem;
 			position: absolute;
-			bottom: 50px;
+			bottom: 100px;
 			width: 100%;
 			left: 0;
 		}
@@ -1103,7 +1104,7 @@ and (-webkit-min-device-pixel-ratio: 3) {
 		.frame__demos {
 		
 			position: absolute;
-			bottom: 100px;
+			bottom: 150px;
 			left: 0;
 			    width: 100%;
     padding-left: 10%;
@@ -1187,7 +1188,7 @@ and (-webkit-min-device-pixel-ratio: 3) {
 		.frame__links a {
 			font-size: 3rem;
 			position: absolute;
-			bottom: 50px;
+			bottom: 100px;
 			width: 100%;
 			left: 0;
 		}
@@ -1210,7 +1211,7 @@ and (-webkit-min-device-pixel-ratio: 3) {
 		.frame__demos {
 		
 			position: absolute;
-			bottom: 100px;
+			bottom: 150px;
 			left: 0;
 			    width: 100%;
     padding-left: 10%;
