@@ -747,7 +747,7 @@ and (max-device-width: 480px)
 and (-webkit-min-device-pixel-ratio: 2) {
 
 	.content{    max-height: 100vh;height: calc(100vh - 0rem);    position: absolute; top: 0}
-	.content__title{width: 75%}
+	.content__title{width: 75%; margin-top: -15%;}
 	.frame__title {
 		font-size: 3rem;}
 		.frame__demo {
@@ -851,7 +851,7 @@ and (max-device-width: 568px)
 and (-webkit-min-device-pixel-ratio: 2) {
 
 	.content{    max-height: 100vh;height: calc(100vh - 0rem);    position: absolute; top: 0}
-	.content__title{width: 75%}
+	.content__title{width: 75%; margin-top: -15%;}
 	.frame__title {
 		font-size: 3rem;}
 		.frame__demo {
@@ -869,7 +869,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 
 		.frame__demo-left {
 			position: absolute;
-			top: 68px;
+			top: 50px;
 			left: 0;
 			width: 100%;
 		}
@@ -955,7 +955,7 @@ and (max-device-width: 667px)
 and (-webkit-min-device-pixel-ratio: 2) { 
 
 	.content{    max-height: 100vh;height: calc(100vh - 0rem);    position: absolute; top: 0}
-	.content__title{width: 75%}
+	.content__title{width: 75%;     margin-top: -15%;}
 	.frame__title {
 		font-size: 3rem;}
 		.frame__demo {
@@ -1060,7 +1060,7 @@ and (max-device-width: 736px)
 and (-webkit-min-device-pixel-ratio: 3) { 
 
 	.content{    max-height: 100vh;height: calc(100vh - 0rem);    position: absolute; top: 0}
-	.content__title{width: 75%}
+	.content__title{width: 75%;     margin-top: -15%;}
 	.frame__title {
 		font-size: 3rem;}
 		.frame__demo {
@@ -1164,7 +1164,7 @@ and (max-device-width: 812px)
 and (-webkit-min-device-pixel-ratio: 3) { 
 
 	.content{    max-height: 100vh;height: calc(100vh - 0rem);    position: absolute; top: 0}
-	.content__title{width: 75%}
+	.content__title{width: 75%;     margin-top: -15%;}
 	.frame__title {
 		font-size: 3rem;}
 		.frame__demo {
@@ -1680,4 +1680,5 @@ and (-webkit-min-device-pixel-ratio: 3) {
 				display: none
 			}
 
+}
 }
